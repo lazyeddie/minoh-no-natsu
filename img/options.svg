@@ -1,0 +1,9 @@
+<svg id="options" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
+	 <clipPath id="sunny">
+		 <path class="st0" d="M27.4,204.3l114.1-65.8V9.2C68,4.7-28.6,94.6,27.4,204.3z"/>
+		 <image xlink:href="ajisai-2.jpeg" clip-path="url(#sunny)" height="800" width="1100"/> 
+	 </clipPath>
+	<path class="st0" d="M257.1,207l-114.2-65.8l-114,65.7C85.4,302.9,215.3,286.1,257.1,207z"/>
+	<path class="st0" d="M144.5,9.2v129.5l114.1,65.7C311.3,100.9,225.9,7.5,144.5,9.2z"/>
+</svg>
