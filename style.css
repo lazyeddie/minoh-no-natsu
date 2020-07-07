@@ -109,10 +109,10 @@ article:last-child {
   margin-bottom: 0;
 }
 
-ol {
+/* ol {
   float: right;
   width: 250px;
-}
+} */
 
 footer {
   background-image: linear-gradient(#041E29, #000);
@@ -211,10 +211,10 @@ footer p {
   margin: 2em 8em;
 } */
 
-.ato {
+/* .ato {
   clear: both;
   margin-top: 20px;
-}
+} */
 
 /*
 @supports (display: grid) {
