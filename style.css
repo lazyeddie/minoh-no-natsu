@@ -122,7 +122,18 @@ footer {
 }
 
 footer p {
-  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+footer img {
+  margin: 1em;
+  max-width: 400px;
+  border-radius: 100%;
+  border: solid 3px #FEF9E6;
+}
+
+footer img:hover {
+  box-shadow: 0 0 15px 0 #FEF9E6;
 }
 
 .list {
